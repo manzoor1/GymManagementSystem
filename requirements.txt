@@ -19,6 +19,7 @@ dnspython==2.7.0
 drf-yasg==1.21.8
 executing==2.0.1
 Faker==25.8.0
+gunicorn==23.0.0
 h11==0.14.0
 idna==3.7
 inflection==0.5.1
